@@ -1,17 +1,16 @@
-# Week {2}: {Project Title}
+# Week {2}: {Portfolio}
 
 ## Author
 - **Name:** Cynthia Njeri
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
+- **GitHub:** [Cynthia-003](https://github.com/Cynthia-003)
 - **Date:** March, 11, 2026
 
 ## Project Description
-Brief description of what you built and why.
+I transform my HTML portfolio into a styled, fully responsive website using CSS3, Flexbox, and Grid.
 
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
 - (list all technologies)
 
 ## Features
@@ -26,10 +25,13 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+CSS setup and basic styling
+Linking CSS to my HTML pages
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+Performance Optimization
+Writing About Myself
+Debugging Issues
 
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
