@@ -11,31 +11,23 @@ I transform my HTML portfolio into a styled, fully responsive website using CSS3
 ## Technologies Used
 - HTML5
 - CSS3
-- (list all technologies)
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## How to Run
-1. Clone this repository
-2. Open `index.html` in your browser
-   OR
-   Run `npm install` then `npm start`
-
+  
 ## Lessons Learned
 CSS setup and basic styling
 Linking CSS to my HTML pages
+How to add images and links on my HTML
+
 
 ## Challenges Faced
 Performance Optimization
 Writing About Myself
 Debugging Issues
+Minimizing images
 
 ## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
+"C:\Users\user\OneDrive\Afbeeldingen\Screenshot 2026-03-26 114915.png"
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
-add commit
+[View Live Demo](https://github.com/Cynthia-003/iyf-s10-week-02-Cynthia-003)
+add commit .
